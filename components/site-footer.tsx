@@ -4,7 +4,7 @@ import { ArrowRight, Droplet, Mail, MapPin, Phone } from "lucide-react";
 const footerLinks = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About" },
-  { href: "/ourproduct", label: "Our Product" },
+  { href: "/our-product", label: "Our Product" },
   { href: "/contact", label: "Contact" },
 ] as const;
 

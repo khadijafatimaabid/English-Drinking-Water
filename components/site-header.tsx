@@ -8,7 +8,7 @@ import { ArrowRight, Droplet, Menu, Phone, X } from "lucide-react";
 const navLinks = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About" },
-  { href: "/ourproduct", label: "Our Product" },
+  { href: "/our-product", label: "Our Product" },
   { href: "/contact", label: "Contact" },
 ] as const;
 

@@ -59,7 +59,7 @@ export default function AboutPage() {
                 Contact Us <ArrowRight className="h-4 w-4" />
               </Link>
               <Link
-                href="/ourproduct"
+                href="/our-product"
                 className="rounded-full border border-blue-200 bg-white px-6 py-3 font-semibold text-blue-800 transition hover:border-blue-300"
               >
                 Explore Products

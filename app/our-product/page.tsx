@@ -7,13 +7,13 @@ export const metadata: Metadata = {
   description:
     "Explore English Drinking Water’s premium 19 litre bottled water, designed for homes, offices, and businesses across Lahore.",
   alternates: {
-    canonical: "https://englishdrinkingwater.com/ourproduct",
+    canonical: "https://englishdrinkingwater.com/our-product",
   },
   openGraph: {
     title: "Our Product | 19 Litre Bottled Drinking Water in Lahore",
     description:
       "Premium 19 litre bottled drinking water with hygienic sealing and reliable delivery in Lahore.",
-    url: "https://englishdrinkingwater.com/ourproduct",
+    url: "https://englishdrinkingwater.com/our-product",
     type: "website",
   },
 };
